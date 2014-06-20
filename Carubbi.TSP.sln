@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carubbi.TSP", "Carubbi.TSP\Carubbi.TSP.csproj", "{F80F9B90-1C1A-4126-998D-59F5201111D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carubbi.TSP.UI", "Carubbi.TSP.UI\Carubbi.TSP.UI.csproj", "{7BADFE0E-76F5-4CE6-9F9A-708B390B7512}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F80F9B90-1C1A-4126-998D-59F5201111D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F80F9B90-1C1A-4126-998D-59F5201111D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F80F9B90-1C1A-4126-998D-59F5201111D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F80F9B90-1C1A-4126-998D-59F5201111D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BADFE0E-76F5-4CE6-9F9A-708B390B7512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BADFE0E-76F5-4CE6-9F9A-708B390B7512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BADFE0E-76F5-4CE6-9F9A-708B390B7512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BADFE0E-76F5-4CE6-9F9A-708B390B7512}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
