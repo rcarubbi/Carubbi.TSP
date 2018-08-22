@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carubbi.TSP", "Carubbi.TSP\Carubbi.TSP.csproj", "{F80F9B90-1C1A-4126-998D-59F5201111D9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carubbi.TSP.UI", "Carubbi.TSP.UI\Carubbi.TSP.UI.csproj", "{7BADFE0E-76F5-4CE6-9F9A-708B390B7512}"
@@ -22,5 +24,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67689E8D-69BE-4D5F-9CB5-3DA53A1AAF6F}
 	EndGlobalSection
 EndGlobal
